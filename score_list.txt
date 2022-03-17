@@ -1,0 +1,1 @@
+[{"attempts": 3, "player_name": "Franzi", "date": "2022-03-17 14:36:49.543638"}, {"attempts": 6, "player_name": "Hansi", "date": "2022-03-17 14:34:11.424287"}, {"attempts": 10, "player_name": "Susi", "date": "2022-03-17 14:30:19.600362"}]
